@@ -1,0 +1,6 @@
+{
+  "name": "Hand Gesture Tetris",
+  "description": "Real-time webcam hand-gesture controlled Tetris powered by Google MediaPipe Hand Landmarker.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
